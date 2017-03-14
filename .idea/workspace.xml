@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eb618bb-c990-4ffa-8b13-3cde7c4223c1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Otoczka_wypukla/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Wyplata.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/out/production/1.7/com/sdajava/zadania/Main.class" afterPath="$PROJECT_DIR$/../1.7/out/production/1.7/com/sdajava/zadania/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/out/production/1/com/sdajava/tablica/Main.class" afterPath="$PROJECT_DIR$/../1/out/production/1/com/sdajava/tablica/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/out/production/2/Main.class" afterPath="$PROJECT_DIR$/../2/out/production/2/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/FinalExam$ExamStatus.class" afterPath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/FinalExam$ExamStatus.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/FinalExam.class" afterPath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/FinalExam.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/Main.class" afterPath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/Object.class" afterPath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/Object.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/StudentExam.class" afterPath="$PROJECT_DIR$/../AbstractAndEnum/out/production/AbstractAndEnum/com/sdajava/passexam/StudentExam.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Funkcje" afterPath="$PROJECT_DIR$/../Funkcje" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../IdeaProjects.zip" afterPath="$PROJECT_DIR$/../IdeaProjects.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/AbstractClass.class" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/AbstractClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/ImplementingClass.class" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/ImplementingClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/Main.class" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/SecondClass.class" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/out/production/Klasa_abstrakcyjna/com/sdajava/abstractclass/SecondClass.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/out/production/Student/com/sdajava/studenci/Doktoranci.class" afterPath="$PROJECT_DIR$/../Student/out/production/Student/com/sdajava/studenci/Doktoranci.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/out/production/Student/com/sdajava/studenci/Main.class" afterPath="$PROJECT_DIR$/../Student/out/production/Student/com/sdajava/studenci/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/out/production/Student/com/sdajava/studenci/Student.class" afterPath="$PROJECT_DIR$/../Student/out/production/Student/com/sdajava/studenci/Student.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/out/production/Thread/com/sdajava/watki/Main.class" afterPath="$PROJECT_DIR$/../Thread/out/production/Thread/com/sdajava/watki/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/out/production/Thread/com/sdajava/watki/MultiThread.class" afterPath="$PROJECT_DIR$/../Thread/out/production/Thread/com/sdajava/watki/MultiThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/out/production/Varargs/com/sdajava/varargs/Main.class" afterPath="$PROJECT_DIR$/../Varargs/out/production/Varargs/com/sdajava/varargs/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Aniamls/Animal.class" afterPath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Aniamls/Animal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Aniamls/Dog.class" afterPath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Aniamls/Dog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Aniamls/Mouse.class" afterPath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Aniamls/Mouse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Main.class" afterPath="$PROJECT_DIR$/../Zoo/out/production/Zoo/com/sdajava/zoo_interfejs/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/out/production/bmi/Main.class" afterPath="$PROJECT_DIR$/../bmi/out/production/bmi/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.log.lck" afterPath="$PROJECT_DIR$/../companystaff/loger.log.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.xml.1.lck" afterPath="$PROJECT_DIR$/../companystaff/loger.xml.1.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.xml.2.lck" afterPath="$PROJECT_DIR$/../companystaff/loger.xml.2.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.xml.lck" afterPath="$PROJECT_DIR$/../companystaff/loger.xml.lck" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Boss.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Boss.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/GUI/GUI.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/GUI/GUI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Human.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Human.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Main.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Worker.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/Worker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/controller/Controller.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/controller/Controller.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/controller/UserInput.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/controller/UserInput.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/model/Boss.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/model/Boss.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/model/Human.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/model/Human.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/model/Worker.class" afterPath="$PROJECT_DIR$/../companystaff/out/production/companystaff/com/sdajava/companystaff/model/Worker.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/out/production/exceptiom2/com/sdajava/exceptiom2/Main.class" afterPath="$PROJECT_DIR$/../exceptiom2/out/production/exceptiom2/com/sdajava/exceptiom2/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/out/production/figury/com/sdajava/figury/Pola.class" afterPath="$PROJECT_DIR$/../figury/out/production/figury/com/sdajava/figury/Pola.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../generyki" afterPath="$PROJECT_DIR$/../generyki" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/out/production/hello_world/com/sdajava/zad1/Main.class" afterPath="$PROJECT_DIR$/../hello_world/out/production/hello_world/com/sdajava/zad1/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/out/production/instrukcja_warunkowa/Main.class" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/out/production/instrukcja_warunkowa/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/out/production/pentla/com/sdajava/pentla_for_for/Main.class" afterPath="$PROJECT_DIR$/../pentla/out/production/pentla/com/sdajava/pentla_for_for/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/out/production/pentla_for/com/sdajava/pentla_for/Main.class" afterPath="$PROJECT_DIR$/../pentla_for/out/production/pentla_for/com/sdajava/pentla_for/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/out/production/untitled104/com/sdajava/studenci/Main.class" afterPath="$PROJECT_DIR$/../studenci/out/production/untitled104/com/sdajava/studenci/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/out/production/untitled104/com/sdajava/studenci/Student.class" afterPath="$PROJECT_DIR$/../studenci/out/production/untitled104/com/sdajava/studenci/Student.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/out/production/switch/Main.class" afterPath="$PROJECT_DIR$/../switch/out/production/switch/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/out/production/tablica3/Main.class" afterPath="$PROJECT_DIR$/../tablica3/out/production/tablica3/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/out/production/tablice3/com/sdajava/tablica/Main.class" afterPath="$PROJECT_DIR$/../tablice3/out/production/tablice3/com/sdajava/tablica/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/out/production/tablice4/com/sdajava/tablica/Main.class" afterPath="$PROJECT_DIR$/../tablice4/out/production/tablice4/com/sdajava/tablica/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/out/production/tablice5/com/sdajava/tablica/Main.class" afterPath="$PROJECT_DIR$/../tablice5/out/production/tablice5/com/sdajava/tablica/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/out/production/typwyliczeniowy/com/sdajava/typn/Main$Colors.class" afterPath="$PROJECT_DIR$/../typwyliczeniowy/out/production/typwyliczeniowy/com/sdajava/typn/Main$Colors.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/out/production/typwyliczeniowy/com/sdajava/typn/Main.class" afterPath="$PROJECT_DIR$/../typwyliczeniowy/out/production/typwyliczeniowy/com/sdajava/typn/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/Main.class" afterPath="$PROJECT_DIR$/../untitled1/out/production/untitled1/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../1.7/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../1.7/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/.idea/description.html" afterPath="$PROJECT_DIR$/../1.7/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/.idea/misc.xml" afterPath="$PROJECT_DIR$/../1.7/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/.idea/modules.xml" afterPath="$PROJECT_DIR$/../1.7/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../1.7/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../1.7/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/1.7.iml" afterPath="$PROJECT_DIR$/../1.7/1.7.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/src/Box.java" afterPath="$PROJECT_DIR$/../1.7/src/Box.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.7/src/com/sdajava/zadania/Main.java" afterPath="$PROJECT_DIR$/../1.7/src/com/sdajava/zadania/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../1/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../1/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/.idea/description.html" afterPath="$PROJECT_DIR$/../1/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/.idea/misc.xml" afterPath="$PROJECT_DIR$/../1/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/.idea/modules.xml" afterPath="$PROJECT_DIR$/../1/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../1/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/1..iml" afterPath="$PROJECT_DIR$/../1/1..iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1/src/com/sdajava/tablica/Main.java" afterPath="$PROJECT_DIR$/../1/src/com/sdajava/tablica/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../2/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../2/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/description.html" afterPath="$PROJECT_DIR$/../2/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../2/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../2/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/modules.xml" afterPath="$PROJECT_DIR$/../2/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../2/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/2.iml" afterPath="$PROJECT_DIR$/../2/2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2/src/Main.java" afterPath="$PROJECT_DIR$/../2/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../AbstractAndEnum/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../AbstractAndEnum/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/.idea/description.html" afterPath="$PROJECT_DIR$/../AbstractAndEnum/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/.idea/misc.xml" afterPath="$PROJECT_DIR$/../AbstractAndEnum/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/.idea/modules.xml" afterPath="$PROJECT_DIR$/../AbstractAndEnum/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../AbstractAndEnum/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AbstractAndEnum/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/AbstractAndEnum.iml" afterPath="$PROJECT_DIR$/../AbstractAndEnum/AbstractAndEnum.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/FinalExam.java" afterPath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/FinalExam.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/Main.java" afterPath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/Object.java" afterPath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/Object.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/StudentExam.java" afterPath="$PROJECT_DIR$/../AbstractAndEnum/src/com/sdajava/passexam/StudentExam.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/description.html" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/Klasa_abstrakcyjna.iml" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/Klasa_abstrakcyjna.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/AbstractClass.java" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/AbstractClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/AbstractClass.java" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/AbstractClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/ImplementingClass.java" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/ImplementingClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/Main.java" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/SecondClass.java" afterPath="$PROJECT_DIR$/../Klasa_abstrakcyjna/src/com/sdajava/abstractclass/SecondClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Student/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Student/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/.idea/description.html" afterPath="$PROJECT_DIR$/../Student/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Student/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Student/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../Student/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Student/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/Student.iml" afterPath="$PROJECT_DIR$/../Student/Student.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/src/com/sdajava/studenci/Doktoranci.java" afterPath="$PROJECT_DIR$/../Student/src/com/sdajava/studenci/Doktoranci.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/src/com/sdajava/studenci/Main.java" afterPath="$PROJECT_DIR$/../Student/src/com/sdajava/studenci/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Student/src/com/sdajava/studenci/Student.java" afterPath="$PROJECT_DIR$/../Student/src/com/sdajava/studenci/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Thread/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Thread/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/description.html" afterPath="$PROJECT_DIR$/../Thread/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Thread/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Thread/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../Thread/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../Thread/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Thread/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/Thread.iml" afterPath="$PROJECT_DIR$/../Thread/Thread.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/src/com/sdajava/watki/Main.java" afterPath="$PROJECT_DIR$/../Thread/src/com/sdajava/watki/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Thread/src/com/sdajava/watki/MultiThread.java" afterPath="$PROJECT_DIR$/../Thread/src/com/sdajava/watki/MultiThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Varargs/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Varargs/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/.idea/description.html" afterPath="$PROJECT_DIR$/../Varargs/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Varargs/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Varargs/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../Varargs/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Varargs/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/Varargs.iml" afterPath="$PROJECT_DIR$/../Varargs/Varargs.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Varargs/src/com/sdajava/varargs/Main.java" afterPath="$PROJECT_DIR$/../Varargs/src/com/sdajava/varargs/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../Zoo/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../Zoo/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/description.html" afterPath="$PROJECT_DIR$/../Zoo/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Zoo/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Zoo/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../Zoo/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../Zoo/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Zoo/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/Zoo.iml" afterPath="$PROJECT_DIR$/../Zoo/Zoo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Aniamls/Animal.java" afterPath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Aniamls/Animal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Aniamls/Dog.java" afterPath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Aniamls/Dog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Aniamls/Mouse.java" afterPath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Aniamls/Mouse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Main.java" afterPath="$PROJECT_DIR$/../Zoo/src/com/sdajava/zoo_interfejs/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../bmi/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../bmi/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/description.html" afterPath="$PROJECT_DIR$/../bmi/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../bmi/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/misc.xml" afterPath="$PROJECT_DIR$/../bmi/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/modules.xml" afterPath="$PROJECT_DIR$/../bmi/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../bmi/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../bmi/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/bmi.iml" afterPath="$PROJECT_DIR$/../bmi/bmi.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../bmi/src/Main.java" afterPath="$PROJECT_DIR$/../bmi/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../companystaff/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../companystaff/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/.idea/description.html" afterPath="$PROJECT_DIR$/../companystaff/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/.idea/misc.xml" afterPath="$PROJECT_DIR$/../companystaff/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/.idea/modules.xml" afterPath="$PROJECT_DIR$/../companystaff/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../companystaff/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../companystaff/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/companystaff.iml" afterPath="$PROJECT_DIR$/../companystaff/companystaff.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.log" afterPath="$PROJECT_DIR$/../companystaff/loger.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.xml" afterPath="$PROJECT_DIR$/../companystaff/loger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.xml.1" afterPath="$PROJECT_DIR$/../companystaff/loger.xml.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/loger.xml.2" afterPath="$PROJECT_DIR$/../companystaff/loger.xml.2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Boss.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Boss.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/GUI/GUI.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/GUI/GUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Human.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Human.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Main.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Worker.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/Worker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/controller/Controller.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/controller/Controller.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/controller/UserInput.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/controller/UserInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/model/Boss.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/model/Boss.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/model/Human.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/model/Human.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/model/Worker.java" afterPath="$PROJECT_DIR$/../companystaff/src/com/sdajava/companystaff/model/Worker.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../exceptiom2/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../exceptiom2/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/.idea/description.html" afterPath="$PROJECT_DIR$/../exceptiom2/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../exceptiom2/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/.idea/modules.xml" afterPath="$PROJECT_DIR$/../exceptiom2/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../exceptiom2/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../exceptiom2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/exceptiom2.iml" afterPath="$PROJECT_DIR$/../exceptiom2/exceptiom2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../exceptiom2/src/com/sdajava/exceptiom2/Main.java" afterPath="$PROJECT_DIR$/../exceptiom2/src/com/sdajava/exceptiom2/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../figury/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../figury/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/description.html" afterPath="$PROJECT_DIR$/../figury/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/misc.xml" afterPath="$PROJECT_DIR$/../figury/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/modules.xml" afterPath="$PROJECT_DIR$/../figury/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../figury/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../figury/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../figury/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/figury.iml" afterPath="$PROJECT_DIR$/../figury/figury.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/src/com/sdajava/figury/Main.java" afterPath="$PROJECT_DIR$/../figury/src/com/sdajava/figury/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../figury/src/com/sdajava/figury/Pola.java" afterPath="$PROJECT_DIR$/../figury/src/com/sdajava/figury/Pola.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../hello_world/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../hello_world/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/.idea/description.html" afterPath="$PROJECT_DIR$/../hello_world/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/.idea/misc.xml" afterPath="$PROJECT_DIR$/../hello_world/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/.idea/modules.xml" afterPath="$PROJECT_DIR$/../hello_world/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../hello_world/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hello_world/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/hello_world.iml" afterPath="$PROJECT_DIR$/../hello_world/hello_world.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello_world/src/com/sdajava/zad1/Main.java" afterPath="$PROJECT_DIR$/../hello_world/src/com/sdajava/zad1/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/description.html" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/misc.xml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/modules.xml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/instrukcja_warunkowa.iml" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/instrukcja_warunkowa.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../instrukcja_warunkowa/src/Main.java" afterPath="$PROJECT_DIR$/../instrukcja_warunkowa/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/description.html" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/misc.xml" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/modules.xml" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../konmpozycja/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/Konmpozycja.iml" afterPath="$PROJECT_DIR$/../konmpozycja/Konmpozycja.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/src/com/sdajava/kompozycja/Book.java" afterPath="$PROJECT_DIR$/../konmpozycja/src/com/sdajava/kompozycja/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/src/com/sdajava/kompozycja/Main.java" afterPath="$PROJECT_DIR$/../konmpozycja/src/com/sdajava/kompozycja/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../konmpozycja/src/com/sdajava/kompozycja/Person.java" afterPath="$PROJECT_DIR$/../konmpozycja/src/com/sdajava/kompozycja/Person.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../loging/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../loging/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/.idea/description.html" afterPath="$PROJECT_DIR$/../loging/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/.idea/misc.xml" afterPath="$PROJECT_DIR$/../loging/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/.idea/modules.xml" afterPath="$PROJECT_DIR$/../loging/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../loging/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../loging/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/loging.iml" afterPath="$PROJECT_DIR$/../loging/loging.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/src/Logger.java" afterPath="$PROJECT_DIR$/../loging/src/Logger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/src/System.java" afterPath="$PROJECT_DIR$/../loging/src/System.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../loging/src/com/sdajava/loging/Main.java" afterPath="$PROJECT_DIR$/../loging/src/com/sdajava/loging/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../pentla/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../pentla/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/.idea/description.html" afterPath="$PROJECT_DIR$/../pentla/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/.idea/misc.xml" afterPath="$PROJECT_DIR$/../pentla/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/.idea/modules.xml" afterPath="$PROJECT_DIR$/../pentla/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../pentla/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pentla/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/pentla.iml" afterPath="$PROJECT_DIR$/../pentla/pentla.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla/src/com/sdajava/pentla_for_for/Main.java" afterPath="$PROJECT_DIR$/../pentla/src/com/sdajava/pentla_for_for/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../pentla_for/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../pentla_for/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/.idea/description.html" afterPath="$PROJECT_DIR$/../pentla_for/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/.idea/misc.xml" afterPath="$PROJECT_DIR$/../pentla_for/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/.idea/modules.xml" afterPath="$PROJECT_DIR$/../pentla_for/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../pentla_for/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../pentla_for/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/pentla_for.iml" afterPath="$PROJECT_DIR$/../pentla_for/pentla_for.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../pentla_for/src/com/sdajava/pentla_for/Main.java" afterPath="$PROJECT_DIR$/../pentla_for/src/com/sdajava/pentla_for/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../studenci/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../studenci/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/description.html" afterPath="$PROJECT_DIR$/../studenci/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/misc.xml" afterPath="$PROJECT_DIR$/../studenci/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/modules.xml" afterPath="$PROJECT_DIR$/../studenci/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../studenci/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../studenci/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../studenci/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/src/com/sdajava/studenci/Main.java" afterPath="$PROJECT_DIR$/../studenci/src/com/sdajava/studenci/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/src/com/sdajava/studenci/Student.java" afterPath="$PROJECT_DIR$/../studenci/src/com/sdajava/studenci/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/studenci.iml" afterPath="$PROJECT_DIR$/../studenci/studenci.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../studenci/untitled104.iml" afterPath="$PROJECT_DIR$/../studenci/untitled104.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../switch/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../switch/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/description.html" afterPath="$PROJECT_DIR$/../switch/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../switch/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/misc.xml" afterPath="$PROJECT_DIR$/../switch/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/modules.xml" afterPath="$PROJECT_DIR$/../switch/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../switch/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../switch/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/src/Main.java" afterPath="$PROJECT_DIR$/../switch/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../switch/switch.iml" afterPath="$PROJECT_DIR$/../switch/switch.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../tablica/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tablica/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/.idea/description.html" afterPath="$PROJECT_DIR$/../tablica/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/.idea/misc.xml" afterPath="$PROJECT_DIR$/../tablica/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tablica/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../tablica/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tablica/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/src/com/sdajava/tablica/Main.java" afterPath="$PROJECT_DIR$/../tablica/src/com/sdajava/tablica/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica/tablica.iml" afterPath="$PROJECT_DIR$/../tablica/tablica.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../tablica3/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tablica3/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/.idea/description.html" afterPath="$PROJECT_DIR$/../tablica3/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/.idea/misc.xml" afterPath="$PROJECT_DIR$/../tablica3/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tablica3/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../tablica3/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tablica3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/src/com/sdajava/tablica/Main.java" afterPath="$PROJECT_DIR$/../tablica3/src/com/sdajava/tablica/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablica3/tablica3.iml" afterPath="$PROJECT_DIR$/../tablica3/tablica3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../tablice/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tablice/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/.idea/description.html" afterPath="$PROJECT_DIR$/../tablice/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/.idea/misc.xml" afterPath="$PROJECT_DIR$/../tablice/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tablice/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../tablice/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tablice/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/src/com/sdajava/tablice2/Main.java" afterPath="$PROJECT_DIR$/../tablice/src/com/sdajava/tablice2/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice/tablice.iml" afterPath="$PROJECT_DIR$/../tablice/tablice.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../tablice2/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tablice2/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/.idea/description.html" afterPath="$PROJECT_DIR$/../tablice2/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../tablice2/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tablice2/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../tablice2/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tablice2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/src/com/sdajava/tablice2/Main.java" afterPath="$PROJECT_DIR$/../tablice2/src/com/sdajava/tablice2/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice2/tablice2.iml" afterPath="$PROJECT_DIR$/../tablice2/tablice2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../tablice3/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tablice3/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/.idea/description.html" afterPath="$PROJECT_DIR$/../tablice3/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/.idea/misc.xml" afterPath="$PROJECT_DIR$/../tablice3/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tablice3/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../tablice3/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tablice3/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/src/com/sdajava/tablica/Main.java" afterPath="$PROJECT_DIR$/../tablice3/src/com/sdajava/tablica/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice3/tablice3.iml" afterPath="$PROJECT_DIR$/../tablice3/tablice3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../tablice4/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tablice4/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/.idea/description.html" afterPath="$PROJECT_DIR$/../tablice4/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/.idea/misc.xml" afterPath="$PROJECT_DIR$/../tablice4/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tablice4/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../tablice4/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tablice4/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/src/com/sdajava/tablica/Main.java" afterPath="$PROJECT_DIR$/../tablice4/src/com/sdajava/tablica/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice4/tablice4.iml" afterPath="$PROJECT_DIR$/../tablice4/tablice4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../tablice5/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../tablice5/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/.idea/description.html" afterPath="$PROJECT_DIR$/../tablice5/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/.idea/misc.xml" afterPath="$PROJECT_DIR$/../tablice5/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/.idea/modules.xml" afterPath="$PROJECT_DIR$/../tablice5/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../tablice5/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tablice5/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/src/com/sdajava/tablica/Main.java" afterPath="$PROJECT_DIR$/../tablice5/src/com/sdajava/tablica/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tablice5/tablice5.iml" afterPath="$PROJECT_DIR$/../tablice5/tablice5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../trycatch/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../trycatch/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/.idea/description.html" afterPath="$PROJECT_DIR$/../trycatch/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/.idea/misc.xml" afterPath="$PROJECT_DIR$/../trycatch/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/.idea/modules.xml" afterPath="$PROJECT_DIR$/../trycatch/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../trycatch/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../trycatch/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/src/com/sdajava/kompozycja/Main.java" afterPath="$PROJECT_DIR$/../trycatch/src/com/sdajava/kompozycja/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/src/com/sdajava/trycatch/Main.java" afterPath="$PROJECT_DIR$/../trycatch/src/com/sdajava/trycatch/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/trycatch.iml" afterPath="$PROJECT_DIR$/../trycatch/trycatch.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../trycatch/untitled104.iml" afterPath="$PROJECT_DIR$/../trycatch/untitled104.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../typwyliczeniowy/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../typwyliczeniowy/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/.idea/description.html" afterPath="$PROJECT_DIR$/../typwyliczeniowy/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/.idea/misc.xml" afterPath="$PROJECT_DIR$/../typwyliczeniowy/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/.idea/modules.xml" afterPath="$PROJECT_DIR$/../typwyliczeniowy/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../typwyliczeniowy/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../typwyliczeniowy/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/src/com/sdajava/typn/EnumTest.java" afterPath="$PROJECT_DIR$/../typwyliczeniowy/src/com/sdajava/typn/EnumTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/src/com/sdajava/typn/Main.java" afterPath="$PROJECT_DIR$/../typwyliczeniowy/src/com/sdajava/typn/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../typwyliczeniowy/typwyliczeniowy.iml" afterPath="$PROJECT_DIR$/../typwyliczeniowy/typwyliczeniowy.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled/untitled.iml" afterPath="$PROJECT_DIR$/../untitled/untitled.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../untitled1/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../untitled1/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/description.html" afterPath="$PROJECT_DIR$/../untitled1/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../untitled1/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/src/Main.java" afterPath="$PROJECT_DIR$/../untitled1/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../watki2/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../watki2/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/.idea/description.html" afterPath="$PROJECT_DIR$/../watki2/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../watki2/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/.idea/modules.xml" afterPath="$PROJECT_DIR$/../watki2/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../watki2/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../watki2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/src/Tasks.java" afterPath="$PROJECT_DIR$/../watki2/src/Tasks.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/src/com/sdajava/watki2/Main.java" afterPath="$PROJECT_DIR$/../watki2/src/com/sdajava/watki2/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../watki2/watki2.iml" afterPath="$PROJECT_DIR$/../watki2/watki2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../wyjatek/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../wyjatek/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/.idea/description.html" afterPath="$PROJECT_DIR$/../wyjatek/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/.idea/misc.xml" afterPath="$PROJECT_DIR$/../wyjatek/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/.idea/modules.xml" afterPath="$PROJECT_DIR$/../wyjatek/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../wyjatek/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../wyjatek/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/src/com/sdajava/wyjatek/Main.java" afterPath="$PROJECT_DIR$/../wyjatek/src/com/sdajava/wyjatek/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../wyjatek/wyjatek.iml" afterPath="$PROJECT_DIR$/../wyjatek/wyjatek.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../zadania/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/../zadania/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/description.html" afterPath="$PROJECT_DIR$/../zadania/.idea/description.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/misc.xml" afterPath="$PROJECT_DIR$/../zadania/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/modules.xml" afterPath="$PROJECT_DIR$/../zadania/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/project-template.xml" afterPath="$PROJECT_DIR$/../zadania/.idea/project-template.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/../zadania/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../zadania/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/src/com/sdajava/zadania/Main.java" afterPath="$PROJECT_DIR$/../zadania/src/com/sdajava/zadania/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/src/com/sdajava/zadania/Pola.java" afterPath="$PROJECT_DIR$/../zadania/src/com/sdajava/zadania/Pola.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../zadania/zadania.iml" afterPath="$PROJECT_DIR$/../zadania/zadania.iml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Wyplata.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Wyplata.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Reszta.java" />
+        <option value="$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/WydawanieReszty.java" />
+        <option value="$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Wyplata.java" />
+        <option value="$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="20" />
+    <option name="width" value="1398" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wydawaniereszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Problem wydawania reszty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Otoczka_wypukla" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.company.sdajava.wydawaniereszty.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Problem wydawania reszty" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Problem wydawania reszty" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eb618bb-c990-4ffa-8b13-3cde7c4223c1" name="Default" comment="" />
+      <created>1489510490971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489510490971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="22" y="20" width="1398" height="820" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Wyplata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/WydawanieReszty.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/sdajava/wydawaniereszty/Wyplata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="49" lean-forward="true" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
